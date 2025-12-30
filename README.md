@@ -1,10 +1,10 @@
-Number Guessing Game (C)
-Description
+## Number Guessing Game (C)
+### Description
 
 This is a simple Number Guessing Game written in C.
 The program stores a fixed secret number and allows the user a limited number of attempts to guess it. After each guess, the program provides hints indicating whether the guess is too high or too low.
 
-Features
+### Features
 
 Fixed secret number
 
@@ -16,7 +16,7 @@ Uses if-else statements to provide hints
 
 Ends when the correct number is guessed or attempts run out
 
-How the Game Works
+### How the Game Works
 
 The program sets a fixed secret number.
 
